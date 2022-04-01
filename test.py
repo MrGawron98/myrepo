@@ -4,3 +4,9 @@ def say_hello(name):
 def sum_two_numbers(a, b):
     result = a + b
     print(result)
+
+def subtract_two_numbers(a, b):
+    result = a + b
+    print(result)
+
+
