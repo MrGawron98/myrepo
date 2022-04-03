@@ -7,7 +7,7 @@ def sum_two_numbers(a, b):
     print(result)
 
 def subtract_two_numbers(a, b):
-    result = a + b
+    result = a - b
     print(result)
 
 
